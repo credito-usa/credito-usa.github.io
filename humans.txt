@@ -1,0 +1,8 @@
+/* TEAM */
+Creado por Carlos Méndez (educador financiero) con herramientas de automatización.
+Sitio: https://credito-usa.github.io/
+Última actualización: 2026-08-19
+
+/* SITE */
+Tecnología: HTML, CSS y JS estáticos desplegados en GitHub Pages.
+Fuentes: FDIC, CFPB, FICO, IRS, Pew Research Center.
