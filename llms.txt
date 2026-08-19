@@ -1,0 +1,22 @@
+# CréditoUSA
+
+Guía educativa gratuita en español para hispanos en EE.UU. sobre cómo hacer crédito: puntaje de crédito, tarjetas aseguradas (secured), tarjetas con ITIN y finanzas personales.
+
+- Idioma: español (EE.UU.)
+- Audiencia: hispanos en EE.UU., recién llegados o sin historial crediticio, con o sin SSN, con ITIN.
+- Catálogo: guías educativas paso a paso, tablas de puntaje FICO, comparativas de tarjetas aseguradas, crédito con ITIN por banco.
+
+## Páginas
+
+- `/` — Hub educativo: "Cómo hacer crédito en USA paso a paso" + puntaje de crédito.
+
+## Fuentes citadas
+
+- FDIC National Survey of Unbanked and Underbanked Households (2023)
+- CFPB — Credit invisibles
+- FICO — factores del puntaje de crédito
+- Pew Research — idioma español entre latinos (2023)
+
+## Disclaimer
+
+CréditoUSA es contenido educativo y no constituye asesoría financiera. No está afiliado a ninguna agencia de crédito ni emisor de tarjetas. Algunos enlaces son de afiliados y pueden generar comisión.
