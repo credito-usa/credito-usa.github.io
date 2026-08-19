@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gui21657.github.io/credito-usa/sitemap.xml
+Sitemap: https://credito-usa.github.io/sitemap.xml

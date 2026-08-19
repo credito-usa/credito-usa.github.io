@@ -5,7 +5,7 @@ Hub educativo en español para hispanos en EE.UU.: cómo hacer crédito, puntaje
 ## Estado
 
 - Primera página (hub educativo) construida según estudio de mercado (ago 2026).
-- Desplegado en GitHub Pages: https://gui21657.github.io/credito-usa/
+- Desplegado en GitHub Pages: https://credito-usa.github.io/
 
 ## Estructura
 
@@ -28,4 +28,4 @@ Hub educativo en español para hispanos en EE.UU.: cómo hacer crédito, puntaje
 
 ## Cómo desplegar
 
-GitHub Pages desde la rama `main`, raíz del repo (proyecto en https://gui21657.github.io/credito-usa/).
+GitHub Pages desde la rama `main`, raíz del repo (proyecto en https://credito-usa.github.io/).
