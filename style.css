@@ -164,7 +164,7 @@ li { margin-bottom: 8px; }
   padding: 11px 18px; border-radius: 9px; text-align: center; font-size: 15px;
 }
 .cta-btn:hover { background: var(--brand-dark); text-decoration: none; }
-.cta-note { font-size: 12.5px; color: #94a3b8; font-style: italic; }
+.cta-note { font-size: 12.5px; color: #64748b; font-style: italic; }
 
 /* ---------- FAQ ---------- */
 details.faq {
@@ -212,11 +212,8 @@ details.faq .faq-body { padding: 0 20px 18px; color: var(--ink-soft); font-size:
 .footer-links { display: flex; gap: 18px; flex-wrap: wrap; margin: 12px 0; }
 .footer-links a:hover { color: #fff; }
 
-/* ---------- Aviso placeholder (se elimina en producción) ---------- */
-.build-note {
-  background: #ecfdf5; border: 1px dashed #34d399; color: #065f46;
-  border-radius: 8px; padding: 10px 14px; font-size: 13px; margin-bottom: 14px;
-}
+/* ---------- Caption de tablas ---------- */
+.table-caption { font-size: 14px; color: var(--ink-soft); font-weight: 600; margin: 0 0 8px; text-align: left; }
 
 /* ---------- Responsive ---------- */
 @media (max-width: 720px) {

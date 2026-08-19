@@ -7,8 +7,9 @@
   var links = document.querySelector('.nav-links');
   if (toggle && links) {
     toggle.addEventListener('click', function () {
-      links.classList.toggle('open');
-      toggle.setAttribute('aria-expanded', links.classList.contains('open') ? 'true' : 'false');
+      var open = links.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Cerrar menú' : 'Abrir menú');
     });
     links.addEventListener('click', function (e) {
       if (e.target.tagName === 'A') links.classList.remove('open');
