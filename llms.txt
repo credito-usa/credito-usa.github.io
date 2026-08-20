@@ -1,28 +1,36 @@
 # CréditoUSA
 
-Guía educativa gratuita en español para hispanos en EE.UU. sobre cómo hacer crédito: puntaje de crédito, tarjetas aseguradas (secured), tarjetas con ITIN y finanzas personales.
+> Guía educativa gratuita en español para hispanos en EE.UU. sobre cómo hacer crédito: puntaje de crédito, tarjetas aseguradas (secured), tarjetas con ITIN y finanzas personales.
 
 - Idioma: español (EE.UU.)
 - Audiencia: hispanos en EE.UU., recién llegados o sin historial crediticio, con o sin SSN, con ITIN.
 - Contenido: educativo, sin enlaces de afiliado actualmente.
 
-## Páginas
+## Guías principales
 
-- `/` — Hub educativo: "Cómo hacer crédito en USA paso a paso" + puntaje de crédito.
-- `/facil-aprobacion/` — Tarjetas de crédito de fácil aprobación en USA.
-- `/tarjetas-con-itin/` — Tarjetas de crédito con ITIN: qué bancos las ofrecen.
-- `/tarjeta-asegurada/` — Tarjeta asegurada (secured): guía completa.
-- `/puntaje-de-credito/` — Puntaje de crédito en USA: guía completa.
-- `/mejores-tarjetas-hispanos/` — Mejores tarjetas de crédito para hispanos en USA.
-- `/acerca-de.html` — Misión, política editorial y de afiliados.
+- [Cómo hacer crédito en USA paso a paso](https://credito-usa.github.io/): hub educativo completo con pasos, puntaje, tarjetas aseguradas, ITIN y fácil aprobación.
+- [Tarjetas de crédito de fácil aprobación en USA](https://credito-usa.github.io/facil-aprobacion/): qué significa "fácil aprobación", precalificación y cómo solicitar en línea.
+- [Tarjetas de crédito con ITIN](https://credito-usa.github.io/tarjetas-con-itin/): qué bancos aceptan ITIN y cómo solicitar.
+- [Tarjeta asegurada (secured)](https://credito-usa.github.io/tarjeta-asegurada/): guía completa de tarjetas aseguradas.
+- [Puntaje de crédito en USA](https://credito-usa.github.io/puntaje-de-credito/): factores FICO, tabla 300-850 y hábitos.
+- [Mejores tarjetas de crédito para hispanos en USA](https://credito-usa.github.io/mejores-tarjetas-hispanos/): criterios y etapas para elegir.
+- [Cómo revisar tu reporte de crédito gratis](https://credito-usa.github.io/reporte-de-credito/): reportes, disputas y fraudes.
+- [Tarjeta de crédito para estudiantes en USA](https://credito-usa.github.io/tarjeta-credito-estudiantes/): primera tarjeta para estudiantes.
+- [Cómo limpiar tu crédito de forma legal](https://credito-usa.github.io/limpiar-credito/): disputas, deudas y estafas de credit repair.
+
+## Acerca del sitio
+
+- [Acerca de CréditoUSA](https://credito-usa.github.io/acerca-de.html): misión, política editorial y de afiliados.
+- [Política de privacidad](https://credito-usa.github.io/politica-de-privacidad.html)
+- [Contacto](https://credito-usa.github.io/contacto.html)
 
 ## Fuentes citadas
 
-- FDIC National Survey of Unbanked and Underbanked Households (2023)
-- CFPB — Credit invisibles
-- FICO — factores del puntaje de crédito
-- IRS — ITIN
-- Pew Research — idioma español entre latinos (2023)
+- [FDIC](https://www.fdic.gov/household-survey) — National Survey of Unbanked and Underbanked Households (2023)
+- [CFPB](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/) — Credit invisibles y reportes
+- [FICO](https://www.myfico.com/credit-education/credit-scores) — Factores del puntaje
+- [IRS](https://www.irs.gov/individuals/taxpayer-identification-numbers-tin/itin) — ITIN
+- [Pew Research](https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/) — Idioma español entre latinos
 
 ## Disclaimer
 
