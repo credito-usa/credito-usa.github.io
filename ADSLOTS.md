@@ -1,39 +1,17 @@
 # ADSLOTS — Guía de inserción de anuncios AdSense
 
-Estado: **INACTIVO** (no hay cuenta AdSense aprobada todavía). Esta guía documenta las
-posiciones óptimas y el código exacto para activar anuncios cuando tengas tu
-`ca-pub-XXXXXXXX`.
+Estado: **ACTIVO** — Google AdSense instalado (auto-ads) en las 9 páginas.
+- Publisher ID: `ca-pub-7245720759435664`
+- Script global añadido al `<head>` de todas las páginas.
+- `ads.txt` creado con el publisher ID.
 
-⚠️ **IMPORTANTE (no saltar):** NO pegues código de AdSense ni muestres anuncios
-hasta que Google APRUEBE tu cuenta y te entregue tu `ca-pub-XXXXXXXX`. Poner
-anuncios con una cuenta no aprobada (o con el ID de otra persona) viola las
-políticas de AdSense y puede acabar en ban permanente del dominio.
+## Auto-ads (activado)
 
----
+El script `adsbygoogle.js` con `client=ca-pub-7245720759435664` está en todas las
+páginas. Google decide automáticamente las mejores posiciones ("auto ads").
+Puede tardar hasta 1 hora (y requiere que la cuenta esté aprobada y verificada).
 
-## Paso 1 — Obtener tu publisher ID
-
-1. Ve a https://adsense.google.com con tu cuenta de Google
-   (wilfredoguillensalazar@gmail.com).
-2. Registra el sitio `credito-usa.github.io`.
-3. Cuando Google apruebe la cuenta, tu ID aparece en "Cuenta → Configuración".
-   Formato: `ca-pub-1234567890123456`.
-
----
-
-## Paso 2 — Crear ads.txt (una sola vez)
-
-Crea el archivo `ads.txt` en la raíz del repo con TU ID real (solo cuando lo tengas):
-
-```
-google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
-```
-
-(El token `f08c47fec0942fa0` es el mismo para todos los publishers de AdSense.)
-
----
-
-## Paso 3 — Script global (una vez por página)
+## Unidades manuales (opcional, cuando quieras más control)
 
 Añadir en el `<head>` de cada página donde quieras anuncios:
 
